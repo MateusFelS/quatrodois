@@ -23,7 +23,7 @@ Diversos links e botões presentes na landing page direcionam o usuário para p�
 > "This Page Does Not Exist
 > Sorry, the page you are looking for could not be found. It's just an accident that was not intentional."
 
-O comportamento foi identificado nas opções **Case** e **Contato**, além dos diversos botões de **"Fale com um especialista"** presentes ao longo da página.
+O comportamento foi identificado nos links **Case** e **Contato**, nos diversos botões de **"Fale com um especialista"** presentes na página e, no rodapé, nos links **Política de Privacidade** e **Termos de Serviço**.
 
 ---
 
@@ -36,20 +36,27 @@ O comportamento foi identificado nas opções **Case** e **Contato**, além dos 
 
 ## Passos para reprodução
 
-1. Acessar a landing page do site [QuatroDois](https://quatrodois.com.br/).
-2. Localizar um dos links ou botões de navegação mencionados.
-3. Clicar em **"Case"**, **"Contato"** ou em um dos botões **"Fale com um especialista"**.
+1. Acessar a landing page do site QuatroDois.
+2. Localizar um dos links ou botões afetados.
+3. Clicar em um dos seguintes elementos:
+   * **Case**
+   * **Contato**
+   * **Fale com um especialista**
+   * **Política de Privacidade**
+   * **Termos de Serviço**
 4. Observar a página carregada.
 
 ---
 
 ## Resultado esperado
 
-Cada link ou CTA deve direcionar o usuário para a página ou seção correspondente à sua finalidade.
+Cada link ou CTA deve direcionar o usuário para a página, seção ou fluxo correspondente à sua finalidade.
 
 * **Case** → página de cases.
 * **Contato** → página ou seção de contato.
 * **Fale com um especialista** → fluxo ou página destinada ao contato com um especialista.
+* **Política de Privacidade** → página contendo a política de privacidade.
+* **Termos de Serviço** → página contendo os termos de serviço.
 
 ---
 
@@ -59,7 +66,7 @@ Os links e CTAs direcionam para uma página inexistente, que apresenta a mensage
 
 > "This Page Does Not Exist"
 
-O usuário não consegue acessar o conteúdo ou fluxo associado ao link selecionado.
+O usuário não consegue acessar o conteúdo ou fluxo associado aos links selecionados.
 
 ---
 
@@ -67,7 +74,9 @@ O usuário não consegue acessar o conteúdo ou fluxo associado ao link selecion
 
 O problema impede o acesso a conteúdos e fluxos importantes da landing page.
 
-Além de prejudicar a navegação, os CTAs **"Fale com um especialista"** deixam de cumprir sua finalidade de direcionar potenciais clientes para um canal de contato, podendo resultar em perda de conversões e dificultando o contato com a empresa.
+Além de prejudicar a navegação, os CTAs **"Fale com um especialista"** deixam de cumprir sua finalidade de direcionar potenciais clientes para um canal de contato.
+
+Os links de **Política de Privacidade** e **Termos de Serviço** também ficam inacessíveis, impedindo o usuário de consultar informações importantes relacionadas ao uso do site e aos serviços oferecidos.
 
 ---
 
@@ -76,3 +85,5 @@ Além de prejudicar a navegação, os CTAs **"Fale com um especialista"** deixam
 - [Vídeo — Case](https://github.com/user-attachments/assets/4866b229-86eb-4e74-99ed-9dfdc2c41057)
 - [Vídeo - Contato](https://github.com/user-attachments/assets/ee6f9adb-585e-4da9-8821-80cde82389e7)
 - [Vídeo - Fale com um Especialista](https://github.com/user-attachments/assets/273abf0a-27b9-4ae5-93eb-12505e1ac137)
+- [Vídeo - Política de Privacidade](https://github.com/user-attachments/assets/f52a2ea1-bbfa-448c-827d-d27952b892cd)
+- [Vídeo - Termos de Serviço](https://github.com/user-attachments/assets/a491b6da-7af5-483d-b563-464a51ba99b5)
